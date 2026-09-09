@@ -10,5 +10,7 @@ useful links:
 
 ## Formatting Examples:
 
+
 1. *Italix* tekst.
-2. **Bold** Tekst.
+2. **Bold** emphasis.
+
