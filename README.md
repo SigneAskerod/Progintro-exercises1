@@ -6,6 +6,8 @@ useful links:
 
 - [Is it christmas?](https://isitchristmas.com/) 
 
+- [Noter til OOP](https://docs.google.com/document/d/1XjCPsJzcohfdPVowR-ntZGbijjFv5n7qNO6skyZvQC0/edit?tab=t.0) 
+
 ## Formatting Examples:
 
 1. *Italix* text.
