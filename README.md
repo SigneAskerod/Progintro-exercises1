@@ -10,5 +10,5 @@ useful links:
 
 ## Formatting Examples:
 
-1. *Italix* text.
-2. **Bold** Text.
+1. *Italix* emphasis.
+2. **Bold** emphasis.
